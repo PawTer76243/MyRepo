@@ -1,4 +1,0 @@
-
-            Console.WriteLine("Aby zakończyć naciśnij dowolny przycisk...");
-            Console.ReadKey();
-       
